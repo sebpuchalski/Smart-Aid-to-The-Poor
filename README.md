@@ -11,3 +11,5 @@ To make the project more interesting I added monetary cost/benefit structure to 
 best at identifying households affected by povery as opposed to households that are not.
 
 NOTE: Open the file in Jupyter notebook to see the included graphics!
+
+Tags: Multiclass classification, RegressionTreesClassifier, Value modeling
