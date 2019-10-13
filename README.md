@@ -9,3 +9,5 @@ to build a model that can classify a Costa Rican household with respect to the e
 
 To make the project more interesting I added monetary cost/benefit structure to reward models that are 
 best at identifying households affected by povery as opposed to households that are not.
+
+NOTE: Open the file in Jupyter notebook to see the included graphics!
